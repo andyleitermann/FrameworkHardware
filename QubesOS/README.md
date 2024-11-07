@@ -58,3 +58,10 @@ As a professional IT and security nerd, I've been excited about hardware by Fram
 	* If you don't know what you're doing here, it's best not to change any of the other default settings. 
 	* Once you're sure your Templates Configuration is ready, click Done.
 24. Back on the Initial Setup page, click Finish Configuration.
+
+# References
+
+Links I found useful: 
+
+* Fixing broken updates for the Qubes Kali template (forum thread): https://forum.qubes-os.org/t/kali-core-template-is-broken-removes-qubes-core-agent-when-installing-packages/29179/9
+* dnf install brave-browser (and other options): https://brave.com/linux/
