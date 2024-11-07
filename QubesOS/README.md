@@ -63,6 +63,7 @@ As a professional IT and security nerd, I've been excited about hardware by Fram
 
 Links I found useful: 
 
+* tayari's Framework 16 HCL with extremely helpful configuration tips: https://forum.qubes-os.org/t/framework-laptop-16-amd-ryzen-7040-series/24985
 * moonlitOrca's Framework Laptop Setup & Tweaking Guide: https://gist.github.com/moonlitOrca (Qubes forum thread: https://forum.qubes-os.org/t/framework-laptop-set-up-and-tweaking-guide-orca-project-2/20815)
 * EncryptedGiraffe's Qubes on Framework github notes: https://gist.github.com/EncryptedGiraffe/39eea9cc7598d09a98711efe7c7a2c89
 * kali-core template - fix broken updates: https://forum.qubes-os.org/t/kali-core-template-is-broken-removes-qubes-core-agent-when-installing-packages/29179/9
